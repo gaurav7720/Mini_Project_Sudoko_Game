@@ -15,4 +15,4 @@ You will come to understand this when we need to call the function several times
 Backtracking involves inserting a possible number in the nearest empty box and going to the next unsolved box. 
 This will go on until we run into an error and we place a zero in the box. We move to the previously solved box and try the next possible number to solve it
 
-author:- Gaurav Boraste
+
